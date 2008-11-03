@@ -1,6 +1,7 @@
 require File.join(File.dirname(__FILE__), 'server')
 require 'optparse'
 require 'yaml'
+require 'fileutils'
 
 module StarlingServer
   class Runner
