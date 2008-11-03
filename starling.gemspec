@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
 	s.version = "0.9.8"
 	s.authors = ["Blaine Cook", "Chris Wanstrath", "Britt Selvitelle", "Glenn Rempe", "Abdul-Rahman Advany"]
 	s.email = ["blaine@twitter.com", "chris@ozmm.org", "abdulrahman@advany.com"]
-	s.homepage = "http://github.com/starling/starling/"
-	s.summary = "Starling is a lightweight, transactional, distributed queue server"
+	s.homepage = "http://github.com/ryana/starling/"
+	s.summary = "Starling is a lightweight, transactional, distributed queue server -- and has been slightly modified by Ryan Angilly"
 	s.description = s.summary
 
 	s.require_path = 'lib'
